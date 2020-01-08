@@ -3,7 +3,7 @@
 ## Configure Bash
 Bash has a **Bash Profile** which is a file that allows you to configure
 how your terminal behaves and define your own custom functions. Here's
-some confiurations that set your default text editor and make it easy
+some configurations that set your default text editor and make it easy
 for you to edit your profile in the future.
 
 1. run the command `touch ~/.bashrc ~/.bash_profile`
